@@ -1,4 +1,19 @@
-### Hi there 👋
+### Welcome 👋
+
+# Languages:
+* Javascript
+* HTML
+* CSS
+
+# Frameworks / Libraries 
+* React
+* Bootstrap
+* jQuery
+
+# Terminal Usage
+* Linux
+
+⚡ Fun fact: I have two 'Instagram Famous' dogs
 
 <!--
 **OllieClark33/OllieClark33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
