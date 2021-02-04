@@ -8,7 +8,7 @@
 # Frameworks / Libraries 
 * React
 * Bootstrap
-* jQuery
+* Jest
 
 # Terminal Usage
 * Linux
