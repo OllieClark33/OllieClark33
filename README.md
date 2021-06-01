@@ -8,7 +8,6 @@
 # Frameworks / Libraries 
 * React
 * Bootstrap
-* Jest
 
 # Terminal Usage
 * Linux
