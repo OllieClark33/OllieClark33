@@ -10,7 +10,7 @@
 * Bootstrap
 
 # Terminal Usage
-* Linux
+* MacOS / Linux
 
 ⚡ Fun fact: I have two 'Instagram Famous' dogs
 
