@@ -5,9 +5,12 @@
 * HTML
 * CSS
 
-# Frameworks / Libraries 
+# Frameworks
 * React
-* Bootstrap
+* Backbone
+
+# Databases
+* SQL
 
 # Terminal Usage
 * MacOS / Linux
