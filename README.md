@@ -1,19 +1,35 @@
 ### Welcome 👋
 
-# Languages:
-* Javascript
-* HTML
-* CSS
+**Languages and Frameworks:** 
+- React
+- Typescript
+- JavaScript (ES6)
+- Backbone.js
+- HTML5/Handlebars
+- CSS3/LESS
 
-# Frameworks
-* React
-* Backbone
+**Back-End and Databases:**
+- Node.js
+- Express.js
+- PostgreSQL
+- RESTful APIs
 
-# Databases
-* SQL
+**Testing and QA:**
+- Mocha.js
+- Chai.js
+- Playwright
 
-# Terminal Usage
-* MacOS / Linux
+**Development Tools:**
+- Git
+- Gitlab
+- CI/CD (runners, pipelines)
+- Storybook
+- Visual Studio Code
+- Vim
+- Ubuntu CLI
+- Postman
+- AdobeXD
+- Figma
 
 ⚡ Fun fact: I have two 'Instagram Famous' dogs
 
